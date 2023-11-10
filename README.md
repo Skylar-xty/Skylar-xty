@@ -6,6 +6,7 @@
 - ✨ I want to be an engineer in the future.
 - 🥰 I'm busy learning, living and loving.
 - 📫 How to reach me skylar.xty@gmail.com
+- 🤓 There're part of my coding work. Please do not hesitate to contact me for collaboration on more fields! I'm longing for each opportunity for innovation and improvement.
 
 <!---
 Skylar-xty/Skylar-xty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
