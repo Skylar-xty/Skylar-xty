@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skylar-xty
 - 👀 I’m interested in science and computers.
-- ⭐ Please refer to this link for my project details. [Project web](https://skylar-xty.github.io/Projects_website/)
+- ⭐ Please refer to this link for my project details. [Project Web](https://skylar-xty.github.io/Projects_website/)
 - 🌱 I’m currently learning mathematics&cybersecurity and was working for the 718 laboratory in my university.
 - 🤖 I was also a RMer and working for H(HITWH)E(Excellent)R(Robot)O(Organization) as a member of the group of Algorithm.
 - 💞️ I’m looking to collaborate on coding, CogSci, AI and Robotics.
